@@ -2,8 +2,12 @@
 
 ### Library Management Database App
 
-![image](https://github.com/user-attachments/assets/e711d51d-5a55-4078-82d0-2ef9a350e2ae width=300)
-![image](https://github.com/user-attachments/assets/84e03e18-dee0-4160-80a0-0031c70cad5c width=300)
+<img src='https://github.com/user-attachments/assets/e711d51d-5a55-4078-82d0-2ef9a350e2ae' width=300>
+<img src='https://github.com/omkardabholkar/Library-Management-Database-App/assets/163356063/b27e5705-5cf9-4c70-a60b-7842558d261f' width=300>
+<img src='https://github.com/omkardabholkar/Library-Management-Database-App/assets/163356063/b27e5705-5cf9-4c70-a60b-7842558d261f' width=300>
+
+![image](https://github.com/user-attachments/assets/e711d51d-5a55-4078-82d0-2ef9a350e2ae)
+![image](https://github.com/user-attachments/assets/84e03e18-dee0-4160-80a0-0031c70cad5c)
 ![image](https://github.com/user-attachments/assets/36f6a7a4-78c9-46de-b304-03ae84afc148)
 
 
