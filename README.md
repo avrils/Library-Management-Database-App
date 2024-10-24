@@ -7,8 +7,6 @@
 ![image](https://github.com/user-attachments/assets/36f6a7a4-78c9-46de-b304-03ae84afc148)
 
 
-
-```markdown
 # Library Management Database App
 
 ## Table of Contents
