@@ -1,6 +1,5 @@
 
-
-### Library Management Database App
+# Library Management Database App
 
 <img src='https://github.com/user-attachments/assets/e711d51d-5a55-4078-82d0-2ef9a350e2ae' width=250>
 <img src='https://github.com/user-attachments/assets/84e03e18-dee0-4160-80a0-0031c70cad5c' width=250>
@@ -36,6 +35,10 @@ This project focused on creating an intuitive interface for library staff and us
 - **Role-Based Access Control**: Ensured only authorized users could access or modify sensitive library data.
 - **Automated Data Workflows**: Streamlined the borrowing and returns process, reducing manual work and enhancing reporting efficiency.
 - **User-Friendly Interface**: Power Apps interface made it easy for staff and users to manage books, borrowing, and returns.
+
+## Logical Diagram
+![image](https://github.com/user-attachments/assets/c331a729-0ade-4de6-8801-30c0a7af60da)
+
 
 ## Data Sources
 The system used a centralized **Azure SQL Database** to store all library data, including book inventories, user information, and borrowing history.
